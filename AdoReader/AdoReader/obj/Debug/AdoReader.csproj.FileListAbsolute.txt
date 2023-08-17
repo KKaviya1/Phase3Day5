@@ -1,0 +1,8 @@
+F:\Phase 3\Day 5\AdoReader\AdoReader\bin\Debug\AdoReader.exe.config
+F:\Phase 3\Day 5\AdoReader\AdoReader\bin\Debug\AdoReader.exe
+F:\Phase 3\Day 5\AdoReader\AdoReader\bin\Debug\AdoReader.pdb
+F:\Phase 3\Day 5\AdoReader\AdoReader\obj\Debug\AdoReader.csproj.AssemblyReference.cache
+F:\Phase 3\Day 5\AdoReader\AdoReader\obj\Debug\AdoReader.csproj.SuggestedBindingRedirects.cache
+F:\Phase 3\Day 5\AdoReader\AdoReader\obj\Debug\AdoReader.csproj.CoreCompileInputs.cache
+F:\Phase 3\Day 5\AdoReader\AdoReader\obj\Debug\AdoReader.exe
+F:\Phase 3\Day 5\AdoReader\AdoReader\obj\Debug\AdoReader.pdb
